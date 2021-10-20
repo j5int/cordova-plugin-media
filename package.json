@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-media",
-  "version": "5.0.3-j5int-1",
+  "version": "5.0.3-j5int.1",
   "description": "Cordova Media Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
