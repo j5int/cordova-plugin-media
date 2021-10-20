@@ -20,6 +20,9 @@
 -->
 # Release Notes
 
+### 5.0.3-j5int.1 (Oct 19, 2021)
+-   Changed logic to always create temp files in the local app storage rather than trying to use external storage to avoid new android 11 file system restriction issue.
+
 ### 5.0.3 (Jun 27, 2019)
 
 -   chore: fix repo and issue urls and license in package.json and plugin.xml ([`784ac7b`](https://github.com/apache/cordova-plugin-media/commit/784ac7b))
